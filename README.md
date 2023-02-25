@@ -3,7 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=gopikrishna7&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gopikrishna7"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gopikrishna7&hide_border=true"/></a>
 </p>
 
 
